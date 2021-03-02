@@ -61,7 +61,7 @@ const vcard = 'BEGIN:VCARD\n'
             + 'ORG:Lexa;\n' // Nama bot
             + 'TEL;type=CELL;type=VOICE;waid=553899815548:+55 389981-5548\n' //Nomor whatsapp kamu
             + 'END:VCARD'
-prefix = '/','*'!'.'
+prefix = '!','*','.'
 blocked = []
 limitawal = '999999999'
 cr = '*obama*'
